@@ -1,0 +1,29 @@
+customer_id,country,plan_name,negative_feedbacks_matched,trigger_types,latest_negative_feedback
+CUST005732,Canada,Premium,2,"Low-CSAT ticket",2026-06-06
+CUST003181,Brazil,Standard,2,"Failed payment",2023-09-07
+CUST004612,"United States",Basic,1,"Failed payment",2026-04-06
+CUST000079,India,Standard,1,"Failed payment",2025-11-03
+CUST006467,Spain,Basic,1,"Failed payment",2025-11-01
+CUST001903,Canada,Premium,1,"Low-CSAT ticket",2025-10-01
+CUST007627,"United States",Basic,1,"Failed payment",2025-09-23
+CUST004937,Brazil,Standard,1,"Low-CSAT ticket",2025-07-05
+CUST007920,India,Basic,1,"Failed payment",2025-06-08
+CUST005917,France,Standard,1,"Failed payment",2024-12-16
+CUST001568,"United States",Standard,1,"Failed payment",2024-08-24
+CUST001959,Nigeria,Standard,1,"Failed payment",2024-07-06
+CUST003504,Philippines,Premium,1,"Failed payment",2023-10-23
+CUST006180,Italy,Basic,1,"Failed payment",2023-04-29
+CUST001463,India,Basic,1,"Failed payment",2023-04-17
+CUST005682,Spain,Basic,1,"Failed payment",2023-03-15
+CUST006594,"United Kingdom",Basic,1,"Failed payment",2022-10-26
+CUST003910,"United Kingdom",Basic,1,"Failed payment",2022-06-26
+CUST006800,Italy,Basic,1,"Failed payment",2022-03-26
+CUST001146,"United States",Basic,1,"Failed payment",2022-02-18
+CUST003536,Indonesia,Standard,1,"Failed payment",2022-01-06
+CUST005629,France,Premium,1,"Failed payment",2021-12-19
+CUST006254,Poland,Basic,1,"Failed payment",2021-04-19
+CUST007854,Poland,Standard,1,"Failed payment",2021-02-13
+CUST001764,"United Kingdom",Basic,1,"Failed payment",2020-12-15
+CUST001105,Indonesia,Premium,1,"Failed payment",2020-09-16
+CUST001296,"United Kingdom",Standard,1,"Failed payment",2020-06-15
+CUST002757,India,Standard,1,"Failed payment",2020-01-02

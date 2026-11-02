@@ -1,0 +1,10 @@
+migration_path,direction,customers,churned_customers,churn_rate_pct
+"Basic -> Basic","Same price",128,37,28.9
+"Standard -> Basic",Downgrade,119,31,26.1
+"Premium -> Basic",Downgrade,114,32,28.1
+"Standard -> Standard","Same price",108,33,30.6
+"Premium -> Standard",Downgrade,106,27,25.5
+"Basic -> Standard",Upgrade,101,30,29.7
+"Basic -> Premium",Upgrade,74,24,32.4
+"Premium -> Premium","Same price",69,15,21.7
+"Standard -> Premium",Upgrade,56,10,17.9

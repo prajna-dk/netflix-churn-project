@@ -1,0 +1,10 @@
+table_name,actual_rows,expected_rows,status
+customers,8000,8000,OK
+subscription_plans,3,3,OK
+subscriptions,8875,8875,OK
+content,500,500,OK
+viewing_activity,66422,66422,OK
+payments,110735,110735,OK
+support_tickets,6120,6120,OK
+customer_feedback,5046,5046,OK
+churn_labels,8000,8000,OK
