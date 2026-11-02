@@ -1,0 +1,33 @@
+{
+  "name": "Netflix Churn",
+  "dataColors": [
+    "#B20710",
+    "#221F1F",
+    "#E50914",
+    "#831010",
+    "#564D4D",
+    "#B3B3B3",
+    "#E87C03",
+    "#5E5E5E"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#221F1F",
+  "tableAccent": "#B20710",
+  "textClasses": {
+    "title": {
+      "fontSize": 14,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#221F1F"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#564D4D"
+    },
+    "callout": {
+      "fontSize": 28,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#B20710"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+model,auc,cv_auc_std,stage
+Gradient Boosting,0.578,0.016,cross-validation (training data)
+Logistic Regression,0.573,0.018,cross-validation (training data)
+Random Forest,0.57,0.016,cross-validation (training data)
+Baseline (always guess the average),0.5,0.0,cross-validation (training data)
+Gradient Boosting (tuned),0.578,,cross-validation after tuning
+Gradient Boosting (final),0.568,,locked test set (AUC)
+Leaky version (do not use),0.648,,leakage demonstration

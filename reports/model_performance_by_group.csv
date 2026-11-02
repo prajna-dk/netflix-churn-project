@@ -1,0 +1,18 @@
+group_column,group,customers,actual_churn_rate,auc
+acquisition_channel,Affiliate Partner,126,0.278,0.503
+acquisition_channel,Paid Social,269,0.242,0.529
+acquisition_channel,Email Campaign,123,0.203,0.547
+acquisition_channel,App Store,185,0.286,0.552
+acquisition_channel,Organic Search,332,0.238,0.572
+acquisition_channel,Referral,197,0.254,0.598
+acquisition_channel,Partner Bundle (Telecom),122,0.205,0.643
+acquisition_channel,Direct,102,0.235,0.653
+customer_segment,Family,349,0.255,0.519
+customer_segment,Individual,795,0.24,0.573
+customer_segment,Student,178,0.225,0.6
+customer_segment,Corporate Bundle,134,0.269,0.624
+gender,Female,674,0.233,0.554
+gender,Male,717,0.257,0.576
+plan_name,Standard,547,0.241,0.532
+plan_name,Premium,296,0.223,0.567
+plan_name,Basic,613,0.258,0.597

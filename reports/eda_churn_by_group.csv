@@ -1,0 +1,47 @@
+category,group,customers,churned,churn_rate_pct,gap_vs_overall_pts
+plan_name,Basic,3368,886,26.3,1.4
+plan_name,Standard,3018,742,24.6,-0.3
+plan_name,Premium,1614,363,22.5,-2.4
+acquisition_channel,Direct,498,129,25.9,1.0
+acquisition_channel,Paid Social,1427,370,25.9,1.0
+acquisition_channel,Affiliate Partner,793,200,25.2,0.3
+acquisition_channel,Email Campaign,785,197,25.1,0.2
+acquisition_channel,Organic Search,1786,445,24.9,0.0
+acquisition_channel,App Store,990,240,24.2,-0.7
+acquisition_channel,Referral,1081,259,24.0,-0.9
+acquisition_channel,Partner Bundle (Telecom),640,151,23.6,-1.3
+country,South Korea,215,63,29.3,4.4
+country,Germany,401,112,27.9,3.0
+country,Indonesia,249,67,26.9,2.0
+country,Nigeria,228,61,26.8,1.9
+country,France,329,86,26.1,1.2
+country,India,1322,338,25.6,0.7
+country,United States,1520,386,25.4,0.5
+country,Japan,291,74,25.4,0.5
+country,United Kingdom,649,160,24.7,-0.2
+country,Philippines,247,61,24.7,-0.2
+customer_segment,Corporate Bundle,670,188,28.1,3.2
+customer_segment,Individual,4386,1098,25.0,0.1
+customer_segment,Family,1992,493,24.7,-0.2
+customer_segment,Student,952,212,22.3,-2.6
+age_band,45-54,878,235,26.8,1.9
+age_band,55-64,166,44,26.5,1.6
+age_band,25-34,2932,733,25.0,0.1
+age_band,18-24,1815,446,24.6,-0.3
+age_band,35-44,2191,530,24.2,-0.7
+age_band,65+,18,3,16.7,-8.2
+tenure_band,under 1 yr,999,294,29.4,4.5
+tenure_band,1-2 yrs,1076,314,29.2,4.3
+tenure_band,2-3 yrs,1092,291,26.6,1.7
+tenure_band,3-5 yrs,2177,522,24.0,-0.9
+tenure_band,5+ yrs,2656,570,21.5,-3.4
+auto_renew,0,1470,422,28.7,3.8
+auto_renew,1,6530,1569,24.0,-0.9
+gender,Prefer not to say,157,43,27.4,2.5
+gender,Female,3817,967,25.3,0.4
+gender,Male,3779,931,24.6,-0.3
+gender,Other,247,50,20.2,-4.7
+tickets_group,3 or more,398,141,35.4,10.5
+tickets_group,2,751,217,28.9,4.0
+tickets_group,0,3592,907,25.3,0.4
+tickets_group,1,3259,726,22.3,-2.6

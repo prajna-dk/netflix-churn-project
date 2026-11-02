@@ -1,0 +1,45 @@
+let
+    Source = Csv.Document(
+        CsvFiles{[Name = "dim_customer.csv"]}[Content],
+        [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+    ChangedTypes = Table.TransformColumnTypes(
+        PromotedHeaders,
+        {
+        {"customer_id", type text},
+        {"first_name", type text},
+        {"last_name", type text},
+        {"age", Int64.Type},
+        {"gender", type text},
+        {"country", type text},
+        {"city", type text},
+        {"registration_date", type date},
+        {"acquisition_channel", type text},
+        {"customer_segment", type text},
+        {"preferred_language", type text},
+        {"churned", Int64.Type},
+        {"churn_date", type date},
+        {"churn_reason", type text},
+        {"plan_id", type text},
+        {"plan_name", type text},
+        {"plan_list_price", type number},
+        {"billed_monthly_price", type number},
+        {"auto_renew", Int64.Type},
+        {"subscription_status", type text},
+        {"age_band", type text},
+        {"tenure_years", type number},
+        {"customer_status", type text},
+        {"churn_probability", type number},
+        {"risk_tier", type text},
+        {"risk_percentile", type number},
+        {"risk_flags", type text},
+        {"flag_count", type number},
+        {"segment_name", type text},
+        {"expected_value_12m", type number},
+        {"value_at_risk_12m", type number},
+        {"sql_risk_score", type number},
+        {"sql_health_score", type number}
+        },
+        "en-US")
+in
+    ChangedTypes

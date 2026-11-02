@@ -1,0 +1,18 @@
+measure,expected_value
+Total Customers,8000.0
+Active Customers,6009.0
+Churned Customers,1991.0
+Churn Rate (%),24.89
+MRR,81364.91
+Revenue (successful payments),1396387.71
+Failed Payments,7206.0
+Payment Failure Rate (%),6.51
+Sessions,66422.0
+Watch Hours,53662.1
+Avg Completion (%),70.47
+Tickets,6120.0
+Avg CSAT,3.26
+Avg Resolution Hours,18.0
+Negative Feedback Share (%),28.5
+High Risk Customers,1201.0
+Value at Risk 12m,151335.0

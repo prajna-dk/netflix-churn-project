@@ -1,0 +1,54 @@
+// ======================= CUSTOMERS =======================
+Total Customers = DISTINCTCOUNT ( dim_customer[customer_id] )
+
+Active Customers = CALCULATE ( [Total Customers], dim_customer[customer_status] = "Active" )
+
+Churned Customers = CALCULATE ( [Total Customers], dim_customer[customer_status] = "Churned" )
+
+Churn Rate = DIVIDE ( [Churned Customers], [Total Customers] )
+
+New Customers = CALCULATE ( [Total Customers], USERELATIONSHIP ( dim_date[date], dim_customer[registration_date] ) )
+
+Churned in Period = CALCULATE ( [Churned Customers], USERELATIONSHIP ( dim_date[date], dim_customer[churn_date] ) )
+
+// ======================= REVENUE & PAYMENTS =======================
+MRR = CALCULATE ( SUM ( dim_customer[billed_monthly_price] ), dim_customer[customer_status] = "Active" )
+
+Revenue = CALCULATE ( SUM ( fact_payments[amount] ), fact_payments[payment_status] = "Success" )
+
+Payments Attempted = COUNTROWS ( fact_payments )
+
+Failed Payments = CALCULATE ( COUNTROWS ( fact_payments ), fact_payments[payment_status] = "Failed" )
+
+Payment Failure Rate = DIVIDE ( [Failed Payments], [Payments Attempted] )
+
+// ======================= ENGAGEMENT =======================
+Sessions = COUNTROWS ( fact_viewing )
+
+Watch Hours = DIVIDE ( SUM ( fact_viewing[watch_duration_minutes] ), 60 )
+
+Avg Completion = DIVIDE ( AVERAGE ( fact_viewing[completion_percentage] ), 100 )
+
+Active Viewers = DISTINCTCOUNT ( fact_viewing[customer_id] )
+
+Hours per Viewer = DIVIDE ( [Watch Hours], [Active Viewers] )
+
+// ======================= SUPPORT & FEEDBACK =======================
+Tickets = COUNTROWS ( fact_tickets )
+
+Avg CSAT = AVERAGE ( fact_tickets[customer_satisfaction_score] )
+
+Avg Resolution Hours = AVERAGE ( fact_tickets[resolution_time_hours] )
+
+Negative Feedback Share =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( fact_feedback ), fact_feedback[sentiment_from_rating] = "Negative" ),
+    COUNTROWS ( fact_feedback )
+)
+
+// ======================= RISK (from the Python model) =======================
+High Risk Customers = CALCULATE ( [Total Customers], dim_customer[risk_tier] = "High" )
+
+Avg Churn Probability = AVERAGE ( dim_customer[churn_probability] )
+
+Value at Risk 12m = SUM ( dim_customer[value_at_risk_12m] )
