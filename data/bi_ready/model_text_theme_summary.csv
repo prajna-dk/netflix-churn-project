@@ -1,0 +1,14 @@
+source,theme_name,items,customers,avg_rating,negative_share,churn_rate_pct,avg_csat,avg_resolution_hours
+feedback,Content library,1152,1047,3.149,0.233,23.0,,
+feedback,General experience,1097,1003,3.0,0.0,25.9,,
+feedback,Streaming quality,722,689,3.148,0.438,25.0,,
+feedback,Customer support,684,649,3.227,0.43,27.9,,
+feedback,Price & value,676,633,3.362,0.385,24.3,,
+feedback,Recommendations,417,405,4.451,0.0,22.0,,
+feedback,App stability,298,292,1.473,1.0,33.2,,
+tickets,Billing & Payments,1709,1570,,,27.0,2.98,17.3
+tickets,Streaming Quality,1323,1221,,,26.0,3.04,18.57
+tickets,Account Access,998,938,,,25.0,3.47,17.78
+tickets,Subscription,881,839,,,26.0,3.5,18.24
+tickets,Device & App,738,697,,,26.0,3.56,18.4
+tickets,Content,471,456,,,27.0,3.55,18.35

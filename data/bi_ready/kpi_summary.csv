@@ -1,0 +1,2 @@
+as_of_date,total_customers,active_customers,churned_customers,churn_rate_pct,monthly_recurring_revenue,revenue_last_12m_payments,high_risk_customers,value_at_risk_12m,churn_model_test_auc
+2026-06-30,8000,6009,1991,24.89,81364.91,205409.27,1201,151334.89,0.568

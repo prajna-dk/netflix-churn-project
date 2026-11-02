@@ -1,0 +1,499 @@
+customer_id,churn_date,churn_reason,lifetime_value,minutes_last_90d,last_view_date,last_engagement_level
+CUST000003,2026-04-20,"Too expensive",344.85,3,2026-02-12,Low
+CUST000191,2026-06-28,"No longer needed",344.85,21,2026-06-06,Low
+CUST000382,2025-11-15,"No longer needed",344.85,116,2025-10-30,Medium
+CUST000384,2026-01-04,"Not enough content",344.85,0,NULL,None
+CUST000707,2026-05-18,"Household budget cuts",344.85,145,2026-05-13,Medium
+CUST000735,2025-12-14,"Content quality decline",344.85,66,2025-09-30,Low
+CUST000758,2026-06-02,"Technical issues",344.85,53,2026-05-08,Low
+CUST000780,2025-11-25,"Too expensive",344.85,0,NULL,None
+CUST000866,2026-01-26,"Too expensive",344.85,616,2026-01-16,High
+CUST000921,2026-01-09,"Poor customer service experience",344.85,302,2025-11-16,High
+CUST000976,2026-05-30,"Payment issues",344.85,56,2026-04-17,Low
+CUST001014,2026-04-16,"Not enough content",344.85,0,NULL,None
+CUST001078,2025-11-30,"Found alternative platform",344.85,139,2025-11-30,Medium
+CUST001421,2026-06-01,"Household budget cuts",344.85,0,NULL,None
+CUST001506,2025-12-22,"No longer needed",344.85,106,2025-10-29,Medium
+CUST001561,2025-12-07,"Technical issues",344.85,58,2025-09-18,Low
+CUST001657,2026-02-25,"Payment issues",344.85,105,2026-02-23,Medium
+CUST001734,2026-05-24,"Poor customer service experience",344.85,41,2026-03-27,Low
+CUST001877,2026-04-07,"Content quality decline",344.85,78,2026-02-21,Low
+CUST001886,2026-04-19,"Too expensive",344.85,239,2026-03-06,Medium
+CUST002059,2025-12-18,"Found alternative platform",344.85,0,NULL,None
+CUST002101,2025-12-23,"Not enough content",344.85,71,2025-11-26,Low
+CUST002119,2026-02-02,"Household budget cuts",344.85,63,2025-12-07,Low
+CUST002185,2026-04-04,"Not enough content",344.85,45,2026-02-09,Low
+CUST002209,2025-10-20,"No longer needed",344.85,0,NULL,None
+CUST002359,2026-04-25,"Not enough content",344.85,0,NULL,None
+CUST002527,2026-02-09,"Not enough content",344.85,37,2026-01-22,Low
+CUST002555,2026-05-30,"Not enough content",344.85,59,2026-04-11,Low
+CUST002674,2026-03-14,"Moving / relocation",344.85,184,2026-03-09,Medium
+CUST002713,2025-10-11,"No longer needed",344.85,93,2025-09-14,Low
+CUST002720,2026-01-05,"Found alternative platform",344.85,231,2025-12-21,Medium
+CUST002770,2026-03-25,"Not enough content",344.85,162,2026-03-17,Medium
+CUST002941,2025-10-29,"Not enough content",344.85,45,2025-08-11,Low
+CUST002943,2026-01-05,"Found alternative platform",344.85,288,2025-12-28,Medium
+CUST002962,2026-04-29,"Household budget cuts",344.85,95,2026-04-20,Low
+CUST003062,2025-11-30,"Found alternative platform",344.85,0,NULL,None
+CUST003083,2025-10-03,"Household budget cuts",344.85,72,2025-09-11,Low
+CUST003117,2026-05-14,"Poor customer service experience",344.85,65,2026-04-06,Low
+CUST003190,2026-01-21,"Too expensive",344.85,187,2025-12-26,Medium
+CUST003285,2026-04-25,"Too expensive",344.85,0,NULL,None
+CUST003404,2025-11-29,"Found alternative platform",344.85,144,2025-11-20,Medium
+CUST003589,2025-11-03,"Found alternative platform",344.85,69,2025-10-16,Low
+CUST003633,2026-04-11,"Technical issues",344.85,0,NULL,None
+CUST003933,2025-11-30,"No longer needed",344.85,157,2025-11-29,Medium
+CUST003956,2025-10-27,"Content quality decline",344.85,111,2025-09-23,Medium
+CUST003987,2025-10-21,"Not enough content",344.85,56,2025-10-13,Low
+CUST004035,2025-10-31,"Found alternative platform",344.85,44,2025-09-17,Low
+CUST004040,2026-04-29,"No longer needed",344.85,0,NULL,None
+CUST004041,2025-10-16,"Found alternative platform",344.85,0,NULL,None
+CUST004189,2025-11-11,"Found alternative platform",344.85,50,2025-10-22,Low
+CUST004201,2026-05-27,"Household budget cuts",344.85,111,2026-05-17,Medium
+CUST004272,2026-01-27,"Payment issues",344.85,0,NULL,None
+CUST004300,2025-10-12,"Too expensive",344.85,181,2025-09-29,Medium
+CUST004351,2026-03-10,"Found alternative platform",344.85,0,NULL,None
+CUST004372,2026-02-19,"Content quality decline",344.85,69,2026-01-19,Low
+CUST004639,2025-10-30,"Technical issues",344.85,94,2025-10-24,Low
+CUST004666,2025-11-13,"No longer needed",344.85,0,NULL,None
+CUST004733,2026-02-14,"Poor customer service experience",344.85,58,2025-11-17,Low
+CUST004747,2026-03-14,"Payment issues",344.85,286,2026-02-24,Medium
+CUST004896,2025-11-17,"Password sharing crackdown",344.85,0,NULL,None
+CUST005022,2025-11-22,"Household budget cuts",344.85,0,NULL,None
+CUST005159,2025-11-18,"Payment issues",344.85,135,2025-11-14,Medium
+CUST005321,2026-04-15,"Poor customer service experience",344.85,18,2026-04-01,Low
+CUST005341,2026-04-30,"Found alternative platform",344.85,24,2026-02-27,Low
+CUST005384,2026-06-22,"Poor customer service experience",344.85,0,NULL,None
+CUST005400,2025-11-29,"Found alternative platform",344.85,0,NULL,None
+CUST005466,2025-11-28,"Found alternative platform",344.85,40,2025-11-05,Low
+CUST005497,2025-11-14,"Password sharing crackdown",344.85,46,2025-10-26,Low
+CUST005546,2025-10-29,"Not enough content",344.85,0,NULL,None
+CUST005548,2026-06-02,"Household budget cuts",344.85,75,2026-04-05,Low
+CUST005559,2026-04-22,"Technical issues",344.85,26,2026-04-11,Low
+CUST005560,2026-02-07,"Technical issues",344.85,194,2026-02-03,Medium
+CUST005693,2026-05-10,"Not enough content",344.85,202,2026-04-20,Medium
+CUST005857,2026-03-29,"Technical issues",344.85,41,2026-01-30,Low
+CUST005892,2026-06-12,"Content quality decline",344.85,0,NULL,None
+CUST006011,2026-06-27,"Not enough content",344.85,3,2026-06-17,Low
+CUST006013,2026-06-03,"Household budget cuts",344.85,106,2026-05-28,Medium
+CUST006123,2025-10-11,"Payment issues",344.85,0,NULL,None
+CUST006349,2025-11-14,"Payment issues",344.85,178,2025-11-06,Medium
+CUST006352,2026-05-11,"Technical issues",344.85,3,2026-03-02,Low
+CUST006373,2025-11-05,"Moving / relocation",344.85,14,2025-09-22,Low
+CUST006470,2026-01-09,"No longer needed",344.85,0,NULL,None
+CUST006511,2026-01-15,"Payment issues",344.85,136,2026-01-15,Medium
+CUST006550,2026-03-29,"Too expensive",344.85,148,2026-03-28,Medium
+CUST006750,2026-05-24,"Too expensive",344.85,211,2026-04-15,Medium
+CUST006809,2025-12-25,"Not enough content",344.85,0,NULL,None
+CUST006868,2026-03-02,"Found alternative platform",344.85,0,NULL,None
+CUST006893,2026-01-29,"No longer needed",344.85,0,NULL,None
+CUST007041,2026-02-05,"Household budget cuts",344.85,22,2026-01-01,Low
+CUST007081,2026-01-31,"Found alternative platform",344.85,0,NULL,None
+CUST007160,2026-02-08,"Moving / relocation",344.85,37,2025-11-22,Low
+CUST007271,2025-11-12,"No longer needed",344.85,64,2025-10-20,Low
+CUST007293,2025-11-20,"Moving / relocation",344.85,49,2025-08-29,Low
+CUST007545,2025-12-08,"Payment issues",344.85,71,2025-11-14,Low
+CUST007567,2026-02-23,"No longer needed",344.85,42,2026-02-10,Low
+CUST007614,2026-05-06,"No longer needed",344.85,0,NULL,None
+CUST007622,2026-01-22,"No longer needed",344.85,0,NULL,None
+CUST007679,2026-06-06,"No longer needed",344.85,68,2026-05-31,Low
+CUST007705,2025-11-23,"Household budget cuts",344.85,0,NULL,None
+CUST007727,2026-05-31,"Too expensive",344.85,0,NULL,None
+CUST007755,2026-02-03,"Technical issues",344.85,22,2026-01-09,Low
+CUST007867,2026-04-26,"Too expensive",344.85,0,NULL,None
+CUST007884,2026-06-25,"Payment issues",344.85,0,NULL,None
+CUST000152,2026-03-03,"Too expensive",321.86,139,2026-02-27,Medium
+CUST000166,2026-04-19,"Found alternative platform",321.86,133,2026-02-12,Medium
+CUST000499,2025-10-03,"Password sharing crackdown",321.86,187,2025-08-26,Medium
+CUST000527,2026-04-17,"No longer needed",321.86,42,2026-04-09,Low
+CUST000528,2026-03-26,"Technical issues",321.86,62,2026-02-10,Low
+CUST000615,2026-02-21,"No longer needed",321.86,71,2026-01-25,Low
+CUST000873,2026-05-24,"Payment issues",321.86,75,2026-02-24,Low
+CUST000960,2026-06-24,"Too expensive",321.86,56,2026-03-31,Low
+CUST001003,2026-02-07,"Technical issues",321.86,31,2025-11-29,Low
+CUST001004,2025-12-18,"Found alternative platform",321.86,163,2025-12-08,Medium
+CUST001116,2026-05-30,"Household budget cuts",321.86,0,NULL,None
+CUST001222,2025-12-19,"Moving / relocation",321.86,35,2025-11-03,Low
+CUST001276,2026-01-03,"Found alternative platform",321.86,32,2025-12-25,Low
+CUST001337,2026-05-19,"Not enough content",321.86,111,2026-04-09,Medium
+CUST001425,2025-11-21,"Household budget cuts",321.86,64,2025-10-19,Low
+CUST001615,2026-06-02,"Found alternative platform",321.86,107,2026-05-08,Medium
+CUST001762,2026-03-21,"Too expensive",321.86,0,NULL,None
+CUST001775,2025-11-29,"Content quality decline",321.86,0,NULL,None
+CUST001836,2025-12-28,"Household budget cuts",321.86,0,NULL,None
+CUST001887,2026-06-10,"Poor customer service experience",321.86,0,NULL,None
+CUST001906,2026-01-08,"Technical issues",321.86,139,2025-12-15,Medium
+CUST001915,2026-01-04,"Content quality decline",321.86,105,2025-12-06,Medium
+CUST001931,2026-04-20,"Moving / relocation",321.86,50,2026-04-06,Low
+CUST001976,2025-10-07,"Moving / relocation",321.86,0,NULL,None
+CUST001988,2025-11-05,"No longer needed",321.86,265,2025-10-16,Medium
+CUST002026,2026-01-12,"Content quality decline",321.86,117,2026-01-01,Medium
+CUST002041,2026-01-24,"Too expensive",321.86,0,NULL,None
+CUST002102,2026-01-07,"Found alternative platform",321.86,77,2025-11-23,Low
+CUST002241,2025-10-17,"Not enough content",321.86,0,NULL,None
+CUST002245,2026-01-25,"Content quality decline",321.86,0,NULL,None
+CUST002248,2026-03-01,"Technical issues",321.86,53,2025-12-12,Low
+CUST002369,2025-12-09,"Password sharing crackdown",321.86,18,2025-11-29,Low
+CUST002376,2025-11-07,"Too expensive",321.86,0,NULL,None
+CUST002387,2026-05-11,"Found alternative platform",321.86,122,2026-05-01,Medium
+CUST002419,2025-12-16,"Too expensive",321.86,74,2025-10-16,Low
+CUST002480,2025-12-25,"Found alternative platform",321.86,221,2025-12-12,Medium
+CUST002482,2026-02-13,"Poor customer service experience",321.86,368,2026-02-08,High
+CUST002748,2026-01-29,"No longer needed",321.86,179,2025-11-21,Medium
+CUST002766,2025-10-14,"Too expensive",321.86,254,2025-10-12,Medium
+CUST002776,2025-11-06,"Poor customer service experience",321.86,89,2025-10-27,Low
+CUST002900,2025-11-27,"Too expensive",321.86,13,2025-11-07,Low
+CUST003020,2025-11-13,"No longer needed",321.86,35,2025-11-10,Low
+CUST003095,2026-04-30,"Found alternative platform",321.86,233,2026-03-28,Medium
+CUST003131,2026-06-09,"No longer needed",321.86,560,2026-06-02,High
+CUST003165,2025-12-21,"Password sharing crackdown",321.86,234,2025-11-26,Medium
+CUST003272,2026-04-16,"Too expensive",321.86,63,2026-03-14,Low
+CUST003290,2025-10-09,"No longer needed",321.86,60,2025-07-25,Low
+CUST003420,2026-06-21,"Moving / relocation",321.86,0,NULL,None
+CUST003462,2026-01-23,"Found alternative platform",321.86,91,2026-01-11,Low
+CUST003580,2026-05-25,"Household budget cuts",321.86,37,2026-05-20,Low
+CUST003768,2026-03-24,"Found alternative platform",321.86,133,2026-02-23,Medium
+CUST003826,2026-05-09,"Poor customer service experience",321.86,205,2026-03-31,Medium
+CUST003846,2026-05-09,"Found alternative platform",321.86,122,2026-04-30,Medium
+CUST003875,2026-05-05,"Technical issues",321.86,0,NULL,None
+CUST004014,2026-02-12,"Too expensive",321.86,0,NULL,None
+CUST004021,2026-05-22,"Household budget cuts",321.86,181,2026-05-21,Medium
+CUST004191,2026-05-06,"Technical issues",321.86,138,2026-04-03,Medium
+CUST004192,2025-12-11,"Not enough content",321.86,35,2025-10-17,Low
+CUST004210,2026-01-09,"Moving / relocation",321.86,0,NULL,None
+CUST004374,2026-05-10,"Not enough content",321.86,0,NULL,None
+CUST004416,2026-02-01,"Content quality decline",321.86,155,2025-12-18,Medium
+CUST004531,2026-04-16,"Moving / relocation",321.86,108,2026-02-28,Medium
+CUST004549,2025-10-12,"No longer needed",321.86,55,2025-08-21,Low
+CUST004555,2026-06-19,"Found alternative platform",321.86,258,2026-06-06,Medium
+CUST004561,2026-01-27,"Content quality decline",321.86,274,2026-01-26,Medium
+CUST004714,2026-02-15,"Found alternative platform",321.86,85,2026-01-18,Low
+CUST004743,2026-04-09,"Found alternative platform",321.86,74,2026-03-17,Low
+CUST004985,2026-04-14,"Poor customer service experience",321.86,0,NULL,None
+CUST005006,2026-03-03,"Found alternative platform",321.86,70,2026-01-17,Low
+CUST005028,2025-12-24,"Poor customer service experience",321.86,37,2025-10-11,Low
+CUST005044,2026-05-28,"Found alternative platform",321.86,129,2026-05-21,Medium
+CUST005049,2026-02-07,"Payment issues",321.86,32,2025-11-16,Low
+CUST005109,2025-11-03,"Technical issues",321.86,171,2025-09-12,Medium
+CUST005254,2026-02-25,"Too expensive",321.86,25,2025-12-21,Low
+CUST005282,2026-02-13,"Technical issues",321.86,37,2026-01-20,Low
+CUST005351,2026-03-27,"No longer needed",321.86,0,NULL,None
+CUST005407,2026-06-16,"Payment issues",321.86,24,2026-06-04,Low
+CUST005420,2025-10-09,"Content quality decline",321.86,468,2025-10-02,High
+CUST005442,2025-10-21,"Moving / relocation",321.86,155,2025-10-06,Medium
+CUST005499,2026-02-10,"No longer needed",321.86,69,2026-01-09,Low
+CUST005619,2025-12-09,"Found alternative platform",321.86,123,2025-11-16,Medium
+CUST005928,2026-06-18,"Not enough content",321.86,54,2026-05-30,Low
+CUST006134,2026-01-18,"Poor customer service experience",321.86,273,2025-12-03,Medium
+CUST006175,2026-02-14,"No longer needed",321.86,159,2026-02-10,Medium
+CUST006234,2026-04-27,"Too expensive",321.86,116,2026-03-19,Medium
+CUST006310,2026-01-17,"Found alternative platform",321.86,358,2026-01-05,High
+CUST006499,2025-12-19,"Poor customer service experience",321.86,52,2025-11-26,Low
+CUST006521,2025-12-21,"Too expensive",321.86,0,NULL,None
+CUST006547,2026-05-13,"Poor customer service experience",321.86,82,2026-03-05,Low
+CUST006583,2026-04-12,"Technical issues",321.86,60,2026-04-10,Low
+CUST006663,2026-05-30,"Too expensive",321.86,0,NULL,None
+CUST006774,2026-05-05,"Found alternative platform",321.86,230,2026-04-05,Medium
+CUST006776,2026-06-28,"Password sharing crackdown",321.86,174,2026-06-25,Medium
+CUST006777,2026-01-07,"Password sharing crackdown",321.86,111,2026-01-04,Medium
+CUST006903,2026-01-22,"Payment issues",321.86,170,2026-01-17,Medium
+CUST007021,2026-04-30,"No longer needed",321.86,40,2026-02-28,Low
+CUST007053,2026-01-18,"Content quality decline",321.86,27,2026-01-15,Low
+CUST007126,2025-12-18,"Found alternative platform",321.86,15,2025-12-07,Low
+CUST007136,2026-02-22,"Too expensive",321.86,44,2025-12-15,Low
+CUST007253,2026-06-24,"Payment issues",321.86,190,2026-06-03,Medium
+CUST007381,2026-01-21,"Not enough content",321.86,82,2025-11-22,Low
+CUST007399,2025-11-24,"Technical issues",321.86,88,2025-11-15,Low
+CUST007550,2025-12-03,"Too expensive",321.86,282,2025-11-14,Medium
+CUST007581,2026-02-10,"Technical issues",321.86,160,2026-02-03,Medium
+CUST007686,2025-11-28,"No longer needed",321.86,0,NULL,None
+CUST007716,2025-11-20,"Not enough content",321.86,55,2025-10-09,Low
+CUST007952,2026-03-12,"Found alternative platform",321.86,0,NULL,None
+CUST000237,2026-02-03,"Too expensive",298.87,0,NULL,None
+CUST000370,2026-06-28,"Too expensive",298.87,111,2026-06-21,Medium
+CUST000383,2026-01-10,"Poor customer service experience",298.87,0,NULL,None
+CUST000629,2026-06-04,"Household budget cuts",298.87,77,2026-05-21,Low
+CUST000651,2026-05-31,"Moving / relocation",298.87,0,NULL,None
+CUST000889,2025-10-15,"Too expensive",298.87,347,2025-09-13,High
+CUST000936,2026-05-08,"Moving / relocation",298.87,43,2026-02-21,Low
+CUST001027,2025-12-06,"Not enough content",298.87,148,2025-11-12,Medium
+CUST001123,2026-04-01,"Technical issues",298.87,28,2026-01-25,Low
+CUST001138,2025-10-19,"Technical issues",298.87,0,NULL,None
+CUST001207,2026-06-22,"Household budget cuts",298.87,3,2026-04-05,Low
+CUST001395,2026-01-04,"Password sharing crackdown",298.87,33,2025-11-15,Low
+CUST001404,2026-06-09,"Found alternative platform",298.87,0,NULL,None
+CUST001821,2026-02-09,"No longer needed",298.87,126,2025-12-30,Medium
+CUST002216,2026-03-15,"No longer needed",298.87,0,NULL,None
+CUST002573,2026-02-23,"Too expensive",298.87,125,2025-12-28,Medium
+CUST002751,2025-11-27,"Moving / relocation",298.87,506,2025-11-05,High
+CUST002903,2026-02-19,"Found alternative platform",298.87,183,2026-02-18,Medium
+CUST003071,2025-11-22,"Found alternative platform",298.87,172,2025-11-19,Medium
+CUST003326,2026-02-20,"Too expensive",298.87,0,NULL,None
+CUST003406,2026-03-13,"Found alternative platform",298.87,131,2026-01-02,Medium
+CUST003670,2026-03-10,"Poor customer service experience",298.87,242,2026-01-29,Medium
+CUST003677,2026-02-21,"Household budget cuts",298.87,302,2026-02-16,High
+CUST003811,2026-05-08,"Found alternative platform",298.87,0,NULL,None
+CUST004197,2025-11-04,"No longer needed",298.87,210,2025-10-14,Medium
+CUST004304,2025-10-29,"Moving / relocation",298.87,101,2025-10-14,Medium
+CUST004363,2026-01-13,"Too expensive",298.87,50,2025-11-22,Low
+CUST004390,2026-03-27,"Technical issues",298.87,274,2026-03-26,Medium
+CUST004426,2026-01-07,"Content quality decline",298.87,181,2026-01-01,Medium
+CUST004479,2026-01-23,"No longer needed",298.87,104,2026-01-05,Medium
+CUST004539,2026-06-20,"Found alternative platform",298.87,0,NULL,None
+CUST004871,2026-04-11,"Too expensive",298.87,26,2026-02-28,Low
+CUST004930,2026-05-28,"Not enough content",298.87,20,2026-02-28,Low
+CUST005026,2026-06-25,"Poor customer service experience",298.87,60,2026-06-19,Low
+CUST005178,2026-03-18,"No longer needed",298.87,89,2026-02-02,Low
+CUST005275,2026-05-06,"Moving / relocation",298.87,91,2026-02-27,Low
+CUST005280,2025-12-02,"Too expensive",298.87,189,2025-11-10,Medium
+CUST005354,2025-12-21,"Household budget cuts",298.87,129,2025-12-08,Medium
+CUST005457,2026-03-19,"No longer needed",298.87,0,NULL,None
+CUST005655,2026-01-04,"Too expensive",298.87,66,2025-12-24,Low
+CUST005762,2026-02-18,"Payment issues",298.87,97,2026-02-07,Low
+CUST005957,2026-06-10,"Found alternative platform",298.87,154,2026-03-27,Medium
+CUST006119,2026-04-25,"Found alternative platform",298.87,0,NULL,None
+CUST006144,2025-12-06,"Payment issues",298.87,98,2025-10-29,Low
+CUST006211,2026-03-20,"Too expensive",298.87,131,2026-03-01,Medium
+CUST006538,2026-06-18,"Technical issues",298.87,471,2026-06-06,High
+CUST006841,2026-06-13,"Household budget cuts",298.87,54,2026-05-16,Low
+CUST006927,2025-10-30,"Poor customer service experience",298.87,0,NULL,None
+CUST006948,2026-03-19,"Payment issues",298.87,87,2026-01-18,Low
+CUST007200,2026-05-19,"Payment issues",298.87,130,2026-05-19,Medium
+CUST007358,2026-01-31,"Payment issues",298.87,107,2025-12-21,Medium
+CUST007382,2025-12-19,"Found alternative platform",298.87,176,2025-12-04,Medium
+CUST007401,2026-03-23,"Technical issues",298.87,51,2026-01-31,Low
+CUST007509,2025-12-07,"Technical issues",298.87,121,2025-11-06,Medium
+CUST007552,2025-12-22,"Found alternative platform",298.87,206,2025-12-19,Medium
+CUST007561,2026-01-09,"Technical issues",298.87,0,NULL,None
+CUST007564,2026-05-16,"Found alternative platform",298.87,0,NULL,None
+CUST007591,2025-10-19,"Too expensive",298.87,0,NULL,None
+CUST007641,2025-12-30,"Technical issues",298.87,143,2025-12-22,Medium
+CUST007696,2025-12-27,"Too expensive",298.87,0,NULL,None
+CUST007760,2025-10-25,"Too expensive",298.87,0,NULL,None
+CUST000108,2026-03-20,"Too expensive",275.88,188,2026-03-12,Medium
+CUST000302,2026-05-17,"Password sharing crackdown",275.88,143,2026-03-12,Medium
+CUST000434,2025-12-29,"Found alternative platform",275.88,167,2025-12-09,Medium
+CUST000535,2026-04-16,"Payment issues",275.88,113,2026-03-23,Medium
+CUST000553,2026-05-07,"Content quality decline",275.88,33,2026-04-26,Low
+CUST000559,2026-04-03,"Found alternative platform",275.88,194,2026-04-01,Medium
+CUST001144,2026-02-27,"Found alternative platform",275.88,54,2026-02-05,Low
+CUST001911,2026-02-26,"Password sharing crackdown",275.88,217,2026-02-07,Medium
+CUST002213,2025-11-19,"Household budget cuts",275.88,347,2025-11-17,High
+CUST002296,2026-05-30,"Found alternative platform",275.88,0,NULL,None
+CUST002855,2026-04-28,"Payment issues",275.88,42,2026-02-17,Low
+CUST003685,2025-11-05,"Household budget cuts",275.88,485,2025-10-24,High
+CUST003711,2025-10-10,"Payment issues",275.88,332,2025-09-27,High
+CUST004958,2026-01-24,"Poor customer service experience",275.88,58,2025-12-07,Low
+CUST004960,2026-01-25,"Payment issues",275.88,29,2025-12-15,Low
+CUST006094,2026-01-07,"Technical issues",275.88,66,2025-10-20,Low
+CUST006210,2026-01-22,"Household budget cuts",275.88,48,2026-01-14,Low
+CUST006651,2025-12-23,"Payment issues",275.88,0,NULL,None
+CUST006832,2025-11-09,"Technical issues",275.88,104,2025-10-29,Medium
+CUST007733,2025-11-14,"Payment issues",275.88,3,2025-10-15,Low
+CUST007800,2025-10-20,"Payment issues",275.88,112,2025-10-02,Medium
+CUST001735,2026-05-15,"Found alternative platform",252.89,69,2026-04-27,Low
+CUST001962,2026-04-28,"Technical issues",252.89,200,2026-02-02,Medium
+CUST002530,2025-12-24,"Not enough content",252.89,38,2025-11-28,Low
+CUST002718,2026-01-28,"Moving / relocation",252.89,183,2026-01-22,Medium
+CUST006778,2026-04-23,"Moving / relocation",252.89,121,2026-03-18,Medium
+CUST007316,2026-01-01,"Technical issues",252.89,227,2025-12-14,Medium
+CUST000028,2025-11-08,"Content quality decline",232.35,140,2025-11-08,Medium
+CUST000032,2026-01-22,"Poor customer service experience",232.35,92,2025-11-07,Low
+CUST000074,2025-12-20,"Not enough content",232.35,32,2025-09-23,Low
+CUST000137,2026-01-10,"Found alternative platform",232.35,33,2025-12-15,Low
+CUST000180,2026-06-04,"Content quality decline",232.35,88,2026-05-22,Low
+CUST000210,2025-12-05,"Technical issues",232.35,409,2025-11-09,High
+CUST000283,2026-04-22,"Poor customer service experience",232.35,47,2026-03-02,Low
+CUST000374,2026-03-12,"Payment issues",232.35,74,2026-01-17,Low
+CUST000402,2026-06-10,"Too expensive",232.35,131,2026-05-17,Medium
+CUST000554,2025-10-15,"Found alternative platform",232.35,117,2025-09-15,Medium
+CUST000558,2026-06-10,"Not enough content",232.35,0,NULL,None
+CUST000622,2026-05-04,"Not enough content",232.35,0,NULL,None
+CUST000623,2026-05-18,"No longer needed",232.35,210,2026-04-20,Medium
+CUST000653,2025-12-20,"No longer needed",232.35,0,NULL,None
+CUST000710,2026-04-25,"Password sharing crackdown",232.35,95,2026-03-21,Low
+CUST000740,2026-01-09,"Poor customer service experience",232.35,198,2025-11-07,Medium
+CUST000749,2026-05-21,"Found alternative platform",232.35,60,2026-03-02,Low
+CUST000754,2025-12-15,"Payment issues",232.35,0,NULL,None
+CUST000779,2026-01-18,"Technical issues",232.35,77,2025-12-05,Low
+CUST000911,2025-10-17,"Not enough content",232.35,168,2025-09-06,Medium
+CUST000927,2026-03-25,"No longer needed",232.35,253,2026-02-18,Medium
+CUST000935,2025-11-23,"Content quality decline",232.35,81,2025-10-23,Low
+CUST000985,2026-03-18,"Password sharing crackdown",232.35,38,2026-02-13,Low
+CUST000993,2026-01-01,"Content quality decline",232.35,0,NULL,None
+CUST001000,2026-02-13,"Poor customer service experience",232.35,145,2026-02-01,Medium
+CUST001007,2026-04-15,"Technical issues",232.35,0,NULL,None
+CUST001029,2025-11-08,"Poor customer service experience",232.35,77,2025-11-03,Low
+CUST001049,2026-03-01,"Moving / relocation",232.35,260,2026-02-28,Medium
+CUST001082,2026-06-23,"Content quality decline",232.35,254,2026-06-14,Medium
+CUST001083,2026-03-12,"Payment issues",232.35,140,2026-02-21,Medium
+CUST001106,2026-01-09,"Too expensive",232.35,140,2026-01-03,Medium
+CUST001145,2025-12-16,"Found alternative platform",232.35,0,NULL,None
+CUST001163,2025-12-06,"Technical issues",232.35,81,2025-11-07,Low
+CUST001240,2026-05-27,"Found alternative platform",232.35,45,2026-05-10,Low
+CUST001295,2026-05-11,"No longer needed",232.35,101,2026-04-30,Medium
+CUST001298,2025-11-20,"Household budget cuts",232.35,178,2025-10-25,Medium
+CUST001315,2025-12-26,"Technical issues",232.35,0,NULL,None
+CUST001328,2026-03-24,"Found alternative platform",232.35,116,2026-02-09,Medium
+CUST001339,2025-10-20,"Technical issues",232.35,139,2025-10-05,Medium
+CUST001431,2025-11-28,"Payment issues",232.35,3,2025-11-07,Low
+CUST001474,2026-05-09,"Moving / relocation",232.35,55,2026-02-16,Low
+CUST001477,2026-06-15,"Too expensive",232.35,36,2026-06-07,Low
+CUST001494,2025-10-30,"Found alternative platform",232.35,166,2025-09-11,Medium
+CUST001611,2026-03-19,"Password sharing crackdown",232.35,0,NULL,None
+CUST001646,2025-12-16,"Technical issues",232.35,0,NULL,None
+CUST001672,2025-11-03,"No longer needed",232.35,29,2025-10-03,Low
+CUST001738,2025-11-30,"Not enough content",232.35,0,NULL,None
+CUST001862,2026-06-12,"Too expensive",232.35,62,2026-03-31,Low
+CUST001897,2026-05-27,"Technical issues",232.35,0,NULL,None
+CUST001914,2026-01-31,"No longer needed",232.35,0,NULL,None
+CUST001943,2025-12-23,"Household budget cuts",232.35,120,2025-11-28,Medium
+CUST002013,2026-01-07,"Household budget cuts",232.35,330,2025-12-04,High
+CUST002084,2026-01-27,"Too expensive",232.35,154,2026-01-11,Medium
+CUST002095,2025-11-18,"Too expensive",232.35,197,2025-09-22,Medium
+CUST002156,2026-01-28,"Technical issues",232.35,222,2026-01-18,Medium
+CUST002215,2026-06-18,"Not enough content",232.35,62,2026-06-04,Low
+CUST002311,2026-03-26,"Found alternative platform",232.35,0,NULL,None
+CUST002466,2026-02-03,"Too expensive",232.35,22,2026-01-09,Low
+CUST002491,2025-10-30,"Moving / relocation",232.35,105,2025-08-27,Medium
+CUST002512,2026-02-01,"No longer needed",232.35,144,2025-12-07,Medium
+CUST002624,2026-02-20,"Content quality decline",232.35,0,NULL,None
+CUST002641,2025-11-10,"Technical issues",232.35,67,2025-11-06,Low
+CUST002648,2026-03-13,"No longer needed",232.35,62,2026-02-12,Low
+CUST002695,2026-01-30,"Not enough content",232.35,0,NULL,None
+CUST002702,2026-02-08,"Found alternative platform",232.35,178,2026-01-25,Medium
+CUST002778,2025-10-16,"Too expensive",232.35,133,2025-10-15,Medium
+CUST002798,2026-01-27,"Found alternative platform",232.35,138,2026-01-07,Medium
+CUST002830,2026-05-01,"Poor customer service experience",232.35,41,2026-02-07,Low
+CUST002881,2025-10-22,"Household budget cuts",232.35,95,2025-09-16,Low
+CUST002956,2026-06-28,"Poor customer service experience",232.35,128,2026-06-26,Medium
+CUST002997,2026-03-21,"Password sharing crackdown",232.35,37,2026-01-08,Low
+CUST003000,2026-02-17,"Password sharing crackdown",232.35,0,NULL,None
+CUST003006,2025-12-12,"Poor customer service experience",232.35,167,2025-12-09,Medium
+CUST003085,2026-04-23,"Content quality decline",232.35,73,2026-03-31,Low
+CUST003114,2026-03-07,"Content quality decline",232.35,38,2026-02-23,Low
+CUST003161,2026-05-29,"Technical issues",232.35,122,2026-05-06,Medium
+CUST003202,2026-05-17,"Too expensive",232.35,0,NULL,None
+CUST003241,2026-01-04,"Technical issues",232.35,0,NULL,None
+CUST003246,2026-02-18,"Found alternative platform",232.35,91,2026-02-11,Low
+CUST003257,2026-01-22,"Not enough content",232.35,52,2025-12-25,Low
+CUST003385,2026-06-03,"Not enough content",232.35,99,2026-05-19,Low
+CUST003402,2026-01-08,"Password sharing crackdown",232.35,62,2025-11-03,Low
+CUST003516,2026-03-27,"Poor customer service experience",232.35,95,2026-02-27,Low
+CUST003557,2026-06-30,"Technical issues",232.35,0,NULL,None
+CUST003595,2026-03-28,"No longer needed",232.35,58,2026-01-03,Low
+CUST003637,2026-06-26,"No longer needed",232.35,64,2026-06-15,Low
+CUST003662,2026-06-19,"Technical issues",232.35,0,NULL,None
+CUST003690,2026-06-26,"Household budget cuts",232.35,357,2026-06-25,High
+CUST003698,2025-11-23,"Found alternative platform",232.35,97,2025-10-06,Low
+CUST003760,2026-05-28,"Too expensive",232.35,0,NULL,None
+CUST003832,2026-02-23,"Household budget cuts",232.35,32,2025-12-27,Low
+CUST003964,2026-03-24,"Moving / relocation",232.35,0,NULL,None
+CUST003998,2025-11-27,"Technical issues",232.35,166,2025-10-13,Medium
+CUST003999,2026-06-27,"No longer needed",232.35,38,2026-05-08,Low
+CUST004020,2025-10-09,"Household budget cuts",232.35,44,2025-08-31,Low
+CUST004025,2025-10-09,"Found alternative platform",232.35,56,2025-09-03,Low
+CUST004033,2026-02-09,"Too expensive",232.35,0,NULL,None
+CUST004089,2025-11-06,"Found alternative platform",232.35,0,NULL,None
+CUST004103,2026-06-03,"Found alternative platform",232.35,79,2026-06-03,Low
+CUST004162,2026-03-12,"Not enough content",232.35,65,2026-02-04,Low
+CUST004219,2025-12-16,"Poor customer service experience",232.35,0,NULL,None
+CUST004247,2026-05-13,"Found alternative platform",232.35,0,NULL,None
+CUST004274,2025-10-28,"No longer needed",232.35,41,2025-09-03,Low
+CUST004290,2025-11-16,"Household budget cuts",232.35,0,NULL,None
+CUST004557,2025-11-02,"Found alternative platform",232.35,159,2025-10-26,Medium
+CUST004575,2026-01-05,"Technical issues",232.35,65,2026-01-04,Low
+CUST004590,2026-06-27,"Moving / relocation",232.35,53,2026-05-25,Low
+CUST004640,2025-10-11,"Found alternative platform",232.35,106,2025-10-09,Medium
+CUST004655,2026-06-20,"Too expensive",232.35,61,2026-06-09,Low
+CUST004872,2026-02-20,"Moving / relocation",232.35,30,2026-01-19,Low
+CUST004989,2026-06-13,"Poor customer service experience",232.35,58,2026-05-11,Low
+CUST005031,2025-10-25,"No longer needed",232.35,153,2025-10-08,Medium
+CUST005033,2025-11-03,"Technical issues",232.35,87,2025-11-03,Low
+CUST005083,2026-04-19,"No longer needed",232.35,50,2026-03-30,Low
+CUST005133,2026-02-17,"Technical issues",232.35,0,NULL,None
+CUST005149,2025-12-18,"Too expensive",232.35,0,NULL,None
+CUST005156,2026-04-21,"Poor customer service experience",232.35,121,2026-03-22,Medium
+CUST005196,2026-02-12,"Household budget cuts",232.35,48,2026-01-15,Low
+CUST005215,2026-06-07,"Too expensive",232.35,0,NULL,None
+CUST005236,2026-05-18,"Found alternative platform",232.35,113,2026-05-16,Medium
+CUST005270,2025-11-02,"No longer needed",232.35,85,2025-08-26,Low
+CUST005315,2025-10-26,"Moving / relocation",232.35,0,NULL,None
+CUST005318,2026-05-11,"Household budget cuts",232.35,238,2026-03-30,Medium
+CUST005363,2025-12-20,"Found alternative platform",232.35,137,2025-12-16,Medium
+CUST005410,2025-12-05,"Poor customer service experience",232.35,0,NULL,None
+CUST005441,2026-06-28,"Too expensive",232.35,215,2026-06-01,Medium
+CUST005487,2026-06-24,"Found alternative platform",232.35,0,NULL,None
+CUST005504,2026-05-24,"Poor customer service experience",232.35,110,2026-04-30,Medium
+CUST005531,2025-10-16,"Password sharing crackdown",232.35,75,2025-09-04,Low
+CUST005534,2026-05-06,"Moving / relocation",232.35,174,2026-03-14,Medium
+CUST005583,2026-06-07,"Not enough content",232.35,36,2026-04-26,Low
+CUST005593,2026-06-08,"Content quality decline",232.35,63,2026-05-11,Low
+CUST005633,2025-10-14,"Found alternative platform",232.35,117,2025-09-21,Medium
+CUST005668,2026-06-04,"Technical issues",232.35,70,2026-04-30,Low
+CUST005749,2026-04-30,"Too expensive",232.35,0,NULL,None
+CUST005824,2026-06-13,"Not enough content",232.35,51,2026-04-09,Low
+CUST005859,2025-11-01,"Found alternative platform",232.35,44,2025-10-02,Low
+CUST005875,2026-01-03,"Not enough content",232.35,0,NULL,None
+CUST005990,2026-06-30,"Found alternative platform",232.35,0,NULL,None
+CUST006084,2026-05-01,"Too expensive",232.35,22,2026-03-22,Low
+CUST006126,2026-01-31,"Content quality decline",232.35,135,2026-01-22,Medium
+CUST006136,2026-01-23,"Payment issues",232.35,61,2025-12-07,Low
+CUST006156,2026-03-02,"Content quality decline",232.35,0,NULL,None
+CUST006319,2025-10-10,"Household budget cuts",232.35,0,NULL,None
+CUST006347,2025-10-22,"Not enough content",232.35,0,NULL,None
+CUST006368,2026-06-10,"No longer needed",232.35,0,NULL,None
+CUST006405,2026-05-07,"Household budget cuts",232.35,64,2026-02-14,Low
+CUST006424,2026-01-04,"No longer needed",232.35,50,2025-11-14,Low
+CUST006461,2025-11-04,"Password sharing crackdown",232.35,115,2025-11-04,Medium
+CUST006483,2026-06-08,"No longer needed",232.35,29,2026-06-06,Low
+CUST006489,2026-04-11,"Household budget cuts",232.35,166,2026-04-06,Medium
+CUST006503,2026-01-19,"Too expensive",232.35,0,NULL,None
+CUST006535,2026-02-11,"Payment issues",232.35,0,NULL,None
+CUST006544,2026-03-07,"Not enough content",232.35,145,2026-02-21,Medium
+CUST006549,2025-12-20,"Content quality decline",232.35,0,NULL,None
+CUST006611,2025-11-25,"Not enough content",232.35,0,NULL,None
+CUST006632,2025-10-28,"Too expensive",232.35,135,2025-10-18,Medium
+CUST006670,2026-04-04,"Technical issues",232.35,169,2026-03-18,Medium
+CUST006674,2025-10-27,"Too expensive",232.35,38,2025-10-13,Low
+CUST006693,2025-11-22,"No longer needed",232.35,0,NULL,None
+CUST006715,2026-04-16,"No longer needed",232.35,0,NULL,None
+CUST006733,2026-04-14,"Not enough content",232.35,0,NULL,None
+CUST006742,2025-10-18,"Found alternative platform",232.35,104,2025-09-02,Medium
+CUST006814,2026-01-20,"Content quality decline",232.35,55,2025-11-24,Low
+CUST006838,2026-03-17,"Found alternative platform",232.35,0,NULL,None
+CUST006945,2026-06-18,"No longer needed",232.35,188,2026-06-06,Medium
+CUST006956,2025-10-25,"Content quality decline",232.35,269,2025-09-30,Medium
+CUST006989,2026-04-09,"Poor customer service experience",232.35,0,NULL,None
+CUST007015,2026-03-23,"Password sharing crackdown",232.35,106,2026-02-23,Medium
+CUST007046,2025-11-15,"Technical issues",232.35,0,NULL,None
+CUST007050,2025-12-14,"Password sharing crackdown",232.35,57,2025-11-05,Low
+CUST007124,2026-02-20,"Moving / relocation",232.35,22,2025-12-08,Low
+CUST007157,2026-04-04,"Content quality decline",232.35,354,2026-03-20,High
+CUST007168,2026-05-29,"Too expensive",232.35,130,2026-05-13,Medium
+CUST007176,2025-12-21,"Found alternative platform",232.35,0,NULL,None
+CUST007307,2026-06-04,"No longer needed",232.35,38,2026-05-18,Low
+CUST007320,2026-04-21,"Not enough content",232.35,87,2026-02-25,Low
+CUST007425,2025-12-26,"Too expensive",232.35,127,2025-10-25,Medium
+CUST007441,2026-05-10,"Payment issues",232.35,131,2026-03-09,Medium
+CUST007444,2025-10-24,"Not enough content",232.35,134,2025-09-08,Medium
+CUST007457,2026-03-07,"Too expensive",232.35,360,2026-02-15,High
+CUST007532,2025-10-16,"Technical issues",232.35,117,2025-09-30,Medium
+CUST007559,2025-11-13,"Too expensive",232.35,0,NULL,None
+CUST007597,2026-04-22,"Household budget cuts",232.35,221,2026-03-16,Medium
+CUST007635,2025-10-27,"Payment issues",232.35,277,2025-10-24,Medium
+CUST007673,2025-12-04,"No longer needed",232.35,0,NULL,None
+CUST007858,2026-05-18,"Too expensive",232.35,44,2026-04-21,Low
+CUST007868,2025-12-23,"Not enough content",232.35,103,2025-12-16,Medium
+CUST007914,2025-12-22,"Found alternative platform",232.35,80,2025-11-18,Low
+CUST007948,2025-12-04,"Technical issues",232.35,3,2025-11-09,Low
+CUST007963,2026-05-13,"Found alternative platform",232.35,44,2026-05-10,Low
+CUST007967,2026-02-27,"Found alternative platform",232.35,140,2026-01-30,Medium
+CUST007987,2025-11-26,"Content quality decline",232.35,227,2025-11-26,Medium
+CUST007994,2025-11-10,"No longer needed",232.35,0,NULL,None
+CUST007995,2026-06-21,"Payment issues",232.35,208,2026-06-03,Medium
+CUST002835,2026-05-09,"Content quality decline",229.90,43,2026-04-27,Low
+CUST003054,2025-10-06,"Password sharing crackdown",229.90,290,2025-09-23,Medium
+CUST000104,2025-10-27,"Technical issues",216.86,37,2025-10-03,Low
+CUST000114,2026-02-27,"Poor customer service experience",216.86,95,2025-12-21,Low
+CUST000146,2025-12-26,"Household budget cuts",216.86,51,2025-11-14,Low

@@ -1,0 +1,9 @@
+campaign_size,targeting,contacts,churn_rate_in_group,churners_reached,customers_saved,value_saved,cost,net_value
+top 10%,model-targeted,601,0.356,214,43,6956,1202,5754
+top 10%,random,601,0.245,147,29,4775,1202,3573
+top 20%,model-targeted,1202,0.312,375,75,12173,2404,9769
+top 20%,random,1202,0.245,294,59,9551,2404,7147
+top 30%,model-targeted,1803,0.295,532,106,17296,3606,13690
+top 30%,random,1803,0.245,441,88,14326,3606,10720
+top 50%,model-targeted,3004,0.277,832,166,27044,6008,21036
+top 50%,random,3004,0.245,734,147,23869,6008,17861

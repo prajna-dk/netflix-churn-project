@@ -1,0 +1,6 @@
+segment_id,segment_name,customers,avg_days_since_last_view,avg_sessions_90d,avg_lifetime_spend,avg_plan_price,avg_tenure_days,avg_tickets_365d,avg_failed_payments_12m,avg_churn_probability,high_risk_customers,monthly_revenue,expected_revenue_at_risk,pct_high_risk
+2,High-Value Loyalists,2283,24.26,3.32,260.05,18.37,1647.54,0.13,0.0,0.24,278,41933.67,9889.49,12.2
+3,Dormant,989,88.81,0.09,194.7,14.2,1503.75,0.23,0.03,0.22,69,14040.61,3176.31,7.0
+4,New & Highly Engaged,762,16.03,5.34,101.52,11.9,532.31,0.98,0.0,0.29,427,9070.88,2678.68,56.0
+1,Budget Regulars,1520,25.26,3.17,97.26,6.99,1719.95,0.05,0.0,0.23,147,10624.8,2473.12,9.7
+0,Payment Trouble,455,32.09,3.1,125.88,12.52,410.51,0.72,1.28,0.31,280,5694.95,1768.6,61.5
