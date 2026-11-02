@@ -1,0 +1,10 @@
+table,rows,columns,fully_duplicated_rows,missing_cells
+churn_labels,8000,4,0,12018
+content,500,9,0,0
+customer_feedback,5046,6,0,0
+customers,8048,12,48,9517
+payments,110735,8,0,214264
+subscription_plans,3,6,0,0
+subscriptions,8875,10,0,21768
+support_tickets,6120,11,0,3056
+viewing_activity,66422,9,0,1195

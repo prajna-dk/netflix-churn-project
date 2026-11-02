@@ -1,0 +1,24 @@
+table,issue,rows_affected,action
+customers,duplicate customer_id rows,48,dropped (kept first copy)
+customers,country spellings (83 variants),7591,standardised to 20 countries
+customers,missing country,409,set to 'Unknown' (Day 3 recovers many from login_location)
+customers,missing city,483,set to 'Unknown' (cannot be guessed safely)
+customers,missing preferred_language,251,set to 'Unknown' (cannot be guessed safely)
+customers,state_or_region blank for all rows,8000,left empty on purpose
+customers,impossible age (<10 or >100),21,"set to blank, then imputed"
+customers,missing or impossible age (total),342,filled with the median age of the customer_segment
+subscriptions,price differs from today's plan price,570,kept as is (historical price at the time)
+content,no known issues,0,kept as is
+subscription_plans,no known issues,0,kept as is
+viewing_activity,device spellings (23 variants),66422,standardised to 5 devices
+viewing_activity,missing device_type,664,set to 'Unknown'
+viewing_activity,watch_duration > 300 minutes (outliers),161,capped at 300
+viewing_activity,session_duration > 360 minutes (outliers),161,capped at 360
+viewing_activity,session shorter than watch time,6068,session raised to equal watch time
+viewing_activity,missing completion_percentage,531,left blank on purpose
+customers,missing country recovered from login_location,409,filled (agreement test = 99.8%)
+payments,subscription_id blank on every row,110735,resolved by customer_id + payment_date window
+payments,amount differs from plan price,1112,amount set to the plan price; original kept in amount_original
+support_tickets,invalid ticket_date (e.g. 2025-13-45),61,"set to blank (ticket kept, date unknown)"
+support_tickets,blank resolution_time / CSAT,1528,expected: ticket still Pending/Escalated. Left blank
+customer_feedback,sentiment_label disagrees with the star rating,263,"kept original label, added sentiment_from_rating and sentiment_mismatch"

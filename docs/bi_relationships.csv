@@ -1,0 +1,12 @@
+from_table,from_column,to_table,to_column,type
+dim_customer,customer_id,fact_payments,customer_id,one-to-many
+dim_customer,customer_id,fact_viewing,customer_id,one-to-many
+dim_customer,customer_id,fact_tickets,customer_id,one-to-many
+dim_customer,customer_id,fact_feedback,customer_id,one-to-many
+dim_customer,customer_id,fact_subscriptions,customer_id,one-to-many
+dim_content,content_id,fact_viewing,content_id,one-to-many
+dim_plan,plan_id,fact_subscriptions,plan_id,one-to-many
+dim_date,date,fact_payments,payment_date,one-to-many (active)
+dim_date,date,fact_viewing,viewing_date,one-to-many (active)
+dim_date,date,fact_tickets,ticket_date,one-to-many (active)
+dim_date,date,fact_feedback,feedback_date,one-to-many (active)
